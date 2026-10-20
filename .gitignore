@@ -6,6 +6,9 @@ target/
 
 ### Mis archivos
 analizador_cajon_antiguo.py
+analizador_cajon_antiguo2.py
+# Historial de respuestas de la IA
+raw_response*
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
