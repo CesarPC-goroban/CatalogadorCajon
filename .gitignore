@@ -5,10 +5,15 @@ target/
 .kotlin
 
 ### Mis archivos
-analizador_cajon_antiguo.py
-analizador_cajon_antiguo2.py
+analizador_cajon_antiguo*.py
+#analizador_cajon_antiguo.py
+#analizador_cajon_antiguo2.py
+#analizador_cajon_antiguo3.py
+src/main/java/org/example/Main_antiguo.java
 # Historial de respuestas de la IA
 raw_response*
+# Base de datos
+cajon*
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
